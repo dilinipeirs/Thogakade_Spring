@@ -6,142 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98ddc972-aa80-4b8e-a0e4-4ccd88b5c3f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BackEnd/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FrontEnd/FrontEnd.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="98ddc972-aa80-4b8e-a0e4-4ccd88b5c3f9" name="Default Changelist" comment="Completed upto Place order form">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thogakade_Spring.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/controller/CustomerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/controller/ItemController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/dto/CustomerDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/dto/ItemDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/dto/OrderDetailDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/dto/OrdersDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/dto/SuperDTO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/OrderDetail.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/OrderDetailID.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/Orders.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/entity/SuperEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/main/WebAppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/main/WebAppInitializer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/main/WebRootConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/repository/CustomerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/repository/ItemRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/repository/OrderDetailRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/repository/OrderRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/SuperService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/CustomerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/ItemService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/impl/CustomerServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/impl/ItemServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/service/custom/impl/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lk/ijse/absd/thogakade/util/EntityDtoConvertor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/controller/CustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/dto/CustomerDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/dto/ItemDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/dto/OrderDetailDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/dto/OrdersDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/dto/SuperDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/OrderDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/OrderDetailID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/Orders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/entity/SuperEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/main/WebAppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/main/WebAppInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/main/WebRootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/repository/CustomerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/repository/ItemRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/repository/OrderDetailRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/repository/OrderRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/SuperService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/impl/CustomerServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/impl/ItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/service/custom/impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/lk/ijse/absd/thogakade/util/EntityDtoConvertor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/controller/CustomerController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/dto/CustomerDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/dto/ItemDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/dto/OrderDetailDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/dto/OrdersDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/dto/SuperDTO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/OrderDetail.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/OrderDetailID.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/Orders.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/entity/SuperEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/main/WebAppConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/main/WebAppInitializer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/main/WebRootConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/repository/CustomerRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/repository/ItemRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/repository/OrderDetailRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/repository/OrderRepository.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/SuperService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/CustomerService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/impl/CustomerServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/impl/ItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/service/custom/impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/classes/lk/ijse/absd/thogakade/util/EntityDtoConvertor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/agroal-api-0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/agroal-pool-0.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/aspectjrt-1.8.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/byte-buddy-1.8.17.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/classmate-1.3.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/dom4j-1.6.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/hibernate-commons-annotations-5.0.4.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/hibernate-core-5.3.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jackson-core-2.9.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jackson-databind-2.9.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/javassist-3.23.1-GA.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/mysql-connector-java-8.0.12.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/protobuf-java-2.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-aop-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-beans-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-context-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-core-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-data-commons-2.0.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-data-jpa-2.0.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-expression-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-jcl-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-jdbc-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-orm-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-tx-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-web-5.0.8.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/thogakade-1.0.0/WEB-INF/lib/spring-webmvc-5.0.8.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -166,18 +33,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="706" />
+          <entry key="html" value="948" />
           <entry key="js" value="124" />
+          <entry key="properties" value="5" />
           <entry key="ts" value="1" />
-          <entry key="txt" value="67" />
+          <entry key="txt" value="107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.spring.boot.run.usages" />
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="706" />
+          <entry key="HTML" value="948" />
           <entry key="JavaScript" value="124" />
-          <entry key="PLAIN_TEXT" value="67" />
+          <entry key="PLAIN_TEXT" value="107" />
+          <entry key="Properties" value="5" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
@@ -189,6 +58,7 @@
           <entry key="JAVA" value="1" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="2" />
+          <entry key="Properties" value="1" />
           <entry key="TypeScript" value="2" />
           <entry key="XML" value="3" />
         </counts>
@@ -205,6 +75,7 @@
           <entry key="java" value="1" />
           <entry key="js" value="2" />
           <entry key="json" value="2" />
+          <entry key="properties" value="1" />
           <entry key="ts" value="2" />
           <entry key="xml" value="3" />
         </counts>
@@ -221,8 +92,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/FrontEnd/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="490" column="89" selection-start-line="490" selection-start-column="89" selection-end-line="490" selection-end-column="89" />
+            <state relative-caret-position="231">
+              <caret line="489" column="56" lean-forward="true" selection-start-line="489" selection-start-column="56" selection-end-line="489" selection-end-column="56" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#3;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -257,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/Demo.ts" />
         <option value="$PROJECT_DIR$/thogakade/pom.xml" />
         <option value="$PROJECT_DIR$/BackEnd/pom.xml" />
+        <option value="$PROJECT_DIR$/BackEnd/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/FrontEnd/index.html" />
       </list>
     </option>
@@ -328,6 +203,13 @@
             </path>
             <path>
               <item name="V1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BackEnd" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="V1" type="b2602c69:ProjectViewProjectNode" />
               <item name="FrontEnd" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -343,7 +225,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536422722329" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536424187582" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -462,7 +344,7 @@
       <updated>1536397579522</updated>
       <workItem from="1536397580815" duration="9294000" />
       <workItem from="1536417885308" duration="1763000" />
-      <workItem from="1536419970711" duration="2148000" />
+      <workItem from="1536419970711" duration="3609000" />
     </task>
     <task id="LOCAL-00001" summary="Completed upto item and customer form.">
       <created>1536415573794</created>
@@ -471,17 +353,31 @@
       <option name="project" value="LOCAL" />
       <updated>1536415573794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed upto Place order form">
+      <created>1536422866393</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1536422866393</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Completed upto Place order form">
+      <created>1536423987420</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1536423987420</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13205000" />
+    <option name="totallyTimeSpent" value="14666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19213313" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -500,7 +396,7 @@
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32885906" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32885906" />
       <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32885906" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" weight="0.32885906" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -527,8 +423,11 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Completed upto item and customer form." />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed upto item and customer form." />
+    <MESSAGE value="Completed upto Place order form" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed upto Place order form" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index2.html" />
@@ -561,10 +460,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BackEnd/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="37" selection-start-line="4" selection-start-column="37" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/FrontEnd/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="490" column="89" selection-start-line="490" selection-start-column="89" selection-end-line="490" selection-end-column="89" />
+        <state relative-caret-position="231">
+          <caret line="489" column="56" lean-forward="true" selection-start-line="489" selection-start-column="56" selection-end-line="489" selection-end-column="56" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#3;n#form#0;n#div#0;n#div#3;n#div#0;n#section#0;n#section#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
